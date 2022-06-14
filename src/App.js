@@ -1,6 +1,10 @@
+import Slide from "./components/Slide";
+
 function App() {
   return (
-    <div></div>
+    <>
+      <Slide/>
+    </>
   );
 }
 
